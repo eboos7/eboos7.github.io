@@ -4,7 +4,7 @@ date: 2023-12-12 08:35:01 +/-TTTT
 tags: git     # TAG names should always be lowercase
 ---
 
-Swapping between my personal github account and school account was a challenge at first, but following a clear naming process made my life much easier.
+Swapping between my personal github account and school account was a challenge at first, but following a clear naming process made life much easier.
 
 This guide describes a clean configuration of multiple github accounts on a mac device. Commands may differ for other operating systems.
 
