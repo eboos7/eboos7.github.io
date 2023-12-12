@@ -1,6 +1,6 @@
 ---
 title: Work With Multiple Github Accounts on The Same Computer
-date: 2023-12-11 08:35:01 +/-TTTT
+date: 2023-12-12 08:35:01 +/-TTTT
 tags: git     # TAG names should always be lowercase
 ---
 
@@ -31,8 +31,8 @@ $ ssh-keygen -t ed25519 -C "your_email@example.com" -f "key_file_name"
 {: .nolineno }
 In my case, I named each `"key_file_name"` after my seperate github usernames.
 ```shell
-$ ssh-keygen -t ed25519 -C "mypersonalemail@gmail.com" -f "eboos3"
-$ ssh-keygen -t ed25519 -C "myschoolemail@gmail.com" -f "eboos7"
+$ ssh-keygen -t ed25519 -C "my_personal_email@gmail.com" -f "eboos3"
+$ ssh-keygen -t ed25519 -C "my_school_email@gmail.com" -f "eboos7"
 ```
 {: .nolineno }
 You should see this create 4 new files in your `.ssh` folder. When you generate a key pair with `ssh-keygen`, it creates two files: one is the private key, and the other is the public key with a .pub extension. 
@@ -87,8 +87,8 @@ In the "Access" section of the sidebar, click  SSH and GPG keys. Click New SSH k
 
 Set your environment variables.
 ```shell
-$ git config user.name "Your Github Username"
-$ git config user.email "Your Github Email"
+$ git config user.name "your_github_username"
+$ git config user.email "your_github_email"
 ```
 {: .nolineno }
 
