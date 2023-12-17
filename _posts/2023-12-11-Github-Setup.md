@@ -11,7 +11,7 @@ This guide describes a clean configuration of multiple github accounts on a mac 
 ## Steps
 1. Create SSH keys for both accounts
 2. Adding your SSH Keys to the ssh-agent
-3. Create a Config file and make host entries
+3. Create a config file and make host entries
 4. Add your SSH Keys to github
 5. Cloning github repositories using different accounts
 
@@ -45,7 +45,7 @@ $ eval "$(ssh-agent -s)"
 > Agent pid 59566
 ```
 {: .nolineno }
-## 3. Create a Config file and make host entries
+## 3. Create a config file and make host entries
 If you do not have a `config` file in your `.ssh` folder create one using the touch command.
 ```shell
 $ touch config
@@ -72,7 +72,7 @@ Now we add these lines to the file, each block corresponding to each account we 
           IdentityFile ~/.ssh/eboos3
 ```
 {: .nolineno }
-The `config file defines simplified aliases for connecting to specific servers with predefined settings like hostnames, user names, identity files (SSH keys), and custom ports.
+The `config` file defines simplified aliases for connecting to specific servers with predefined settings like hostnames, user names, identity files (SSH keys), and custom ports.
 
 ## 4. Add your SSH Keys to github
 Copy the SSH public key to your clipboard. Replace eboos3 with your public key name.
@@ -140,7 +140,7 @@ So, to clone the [chirpy website theme](https://github.com/cotes2020/jekyll-them
 $ git clone personal:cotes2020/jekyll-theme-chirpy.git
 ```
 {: .nolineno }
-Notice **"personal"** is the Host name for my personal account inside of the Config folder.
+Notice **"personal"** is the Host name for my personal account inside of the config folder.
 
 ## Conclusion
 From now on, to ensure that our commits and pushes from each repository on the system uses the correct GitHub user — we will have to configure user.email and user.name in every repository freshly cloned or existing before.
