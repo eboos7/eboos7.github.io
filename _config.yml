@@ -26,12 +26,12 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: https://github.com/eboos7 # change to your github username
+  username: eboos7 # change to your github username
 
 # twitter:
 #   username: twitter_username # change to your twitter username
 linkedin:
-  username: https://www.linkedin.com/in/ethanboos
+  username: ethanboos
 
 social:
   # Change to your full name.
