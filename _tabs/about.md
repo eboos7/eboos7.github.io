@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-I am a **Software Engineer** focusing on  distributed computing and artificial intelligence.
+I am a Software Engineer focusing on advanced aspects of Computing Systems, including operating systems, network security, and infrastructure design.
 
 Grew up in Georgia. Graduated in Applied Math at the University of Georgia. Currently, studying computer science at Georgia Tech.
 
