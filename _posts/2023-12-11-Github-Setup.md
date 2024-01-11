@@ -31,8 +31,8 @@ $ ssh-keygen -t ed25519 -C "your_email@example.com" -f "key_file_name"
 {: .nolineno }
 In my case, I named each `"key_file_name"` after my seperate github usernames.
 ```shell
-$ ssh-keygen -t ed25519 -C "my_personal_email@gmail.com" -f "eboos3"
-$ ssh-keygen -t ed25519 -C "my_school_email@gmail.com" -f "eboos7"
+$ ssh-keygen -t ed25519 -C "my_personal_email@gmail.com" -f "eboos7"
+$ ssh-keygen -t ed25519 -C "my_school_email@gmail.com" -f "eboos3"
 ```
 {: .nolineno }
 You should see this create 4 new files in your `.ssh` folder. When you generate a key pair with `ssh-keygen`, it creates two files: one is the private key, and the other is the public key with a .pub extension. 
