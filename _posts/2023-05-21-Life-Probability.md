@@ -56,12 +56,12 @@ The trick is being able to identify, or guesstimate, what actions have a high pr
 
 A Family Richness Monte Carlo visualization,
 
-![FamilyMonteCarlo](/assets/img/probabalistic-lens/familymontecarlo.svg) {: width="700" height="400" }
+![FamilyMonteCarlo](/assets/img/probabalistic-lens/familymontecarlo.svg){: width="700" height="400" }
 _Family Monte Carlo Simulation_
 
 A Health Richness Monte Carlo visualization,
 
-![HealthMonteCarlo](/assets/img/probabalistic-lens/familymontecarlo.svg) {: width="700" height="400" }
+![HealthMonteCarlo](/assets/img/probabalistic-lens/familymontecarlo.svg){: width="700" height="400" }
 _Health Monte Carlo Simulation_
 
 Your real life expectation is open to manipulation for better or worse. 
