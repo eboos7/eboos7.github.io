@@ -43,7 +43,7 @@ To delve into the technical workings of MC simulations you can read [here](https
 ![MonteCarlo](/assets/img/probabalistic-lens/montecarlo.png){: width="700" height="400" }
 _Monte Carlo Simulation With 50 Steps_
 
-At the heart of these simulations, is the acceptance that alternative histories (sample paths) could have been taken. Averaging all our sample paths will give us the [expected value](https://en.wikipedia.org/wiki/Expected_value) over a certain period of time. In the simulation above, the expectation would be roughly \$100. So after 50 intervals of time pass, we expect the stock price to be \$100, or close to it. Notice that expectation is not guaranteed, it is simply the most probable outcome.
+At the heart of these simulations, is the acceptance that alternative histories (sample paths) could have been taken. Averaging all our sample paths will give us the [expected value](https://en.wikipedia.org/wiki/Expected_value) over a certain period of time. In the simulation above, the expectation would be roughly $100. So after 50 intervals of time pass, we expect the stock price to be $100, or close to it. Notice that expectation is not guaranteed, it is simply the most probable outcome.
 
 Now let's apply the same MC tools to model real life outcomes with logic not numbers. 
 
