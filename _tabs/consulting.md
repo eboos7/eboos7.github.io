@@ -12,7 +12,7 @@ Why are my events free?
 
 My consulting specialties are:
 - Digital Transformation - Integrating technology to make everything run smoother and smarter.
-- Lean Operational Toolkit - Finding and fixing problems while getting rid of any unnecessary stuff that slows things down.
+- Lean Operational Toolkit - Finding and fixing problems while getting rid of blockers that slows things down.
 - Commercial Excellence - Nailing every aspect of how a company sells and serves its customers.
 - Outsourcing - Hiring talented people at a fraction of the US-based cost.
 

@@ -13,7 +13,7 @@ Outside of my research role, I broker small business sales ranging from $500k to
 
 Grew up in Georgia. Graduated in Applied Math at the University of Georgia. 
 
-# Contact me
+## Contact me
 For Georgia Tech related work: [eboos3@gatech.edu](mailto:eboos3@gatech.edu)
 
 For business brokerage related work: [ethan@ethanboos.com](mailto:ethan@ethanboos.com)

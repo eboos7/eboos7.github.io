@@ -1,7 +1,7 @@
 ---
 title: IT Consulting
 date: 2024-01-01 08:35:01 +/-TTTT
-tags: Consulting     # TAG names should always be lowercase
+tags: consulting     # TAG names should always be lowercase
 ---
 
 During my first year out of college, I declined job offers from Fortune 500 companies and venture-backed startups to go out and try something on my own.
