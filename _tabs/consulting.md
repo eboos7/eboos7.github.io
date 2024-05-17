@@ -4,7 +4,7 @@ icon: fas fa-solid fa-toolbox
 order: 5
 ---
 
-I used to charged businesses thousands of dollars for my consulting workshops. Now I do 1 day events **for free**. 
+I used to charged businesses thousands of dollars for my consulting workshops. **Now I do 1 day events for free**. 
 
 Why are my events free?
 

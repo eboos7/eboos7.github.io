@@ -2,6 +2,8 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+# Upgrade Guide if Deploys don't work
+# https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide#upgrade-from-starter
 ---
 Hi, I'm Ethan.
 
