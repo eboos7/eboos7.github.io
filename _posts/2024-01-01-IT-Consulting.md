@@ -1,5 +1,5 @@
 ---
-title: it consulting
+title: IT Consulting
 date: 2024-01-01 08:35:01 +/-TTTT
 tags: consulting     # TAG names should always be lowercase
 ---

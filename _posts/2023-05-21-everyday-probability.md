@@ -1,5 +1,5 @@
 ---
-title: everyday probability
+title: Everyday Probability
 date: 2023-05-21 08:35:01 +/-TTTT
 tags: math     # TAG names should always be lowercase
 math: true
