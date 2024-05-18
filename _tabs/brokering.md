@@ -4,7 +4,7 @@ icon: fas fa-solid fa-toolbox
 order: 5
 ---
 
-If you are looking to buy or sell a business soon, email me now - [ethan@ethanboos.com](mailto:ethan@ethanboos.com)
+If you are looking to buy or sell a business soon, email me - [ethan@ethanboos.com](mailto:ethan@ethanboos.com)
 
 If you are a business owner not interested in selling for a while, I would appreciate the opportunity to leave a good impression by doing some **free consulting** for you (1 full day max).
 
